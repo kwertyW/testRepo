@@ -1,1 +1,1 @@
-print("Hello world!!!!!!!!!!!@!12`123123adqwwreewrwwwrqq")
+print("Goodbye world")
